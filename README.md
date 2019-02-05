@@ -41,6 +41,7 @@ In no particular order:
 * [Alison Presmanes Hill](https://github.com/apreshill)
 * [Priyanga Dilini Talagala](https://github.com/pridiltal)
 * [Max Woolf](https://github.com/minimaxir)
+* [Romain François](https://github.com/romainfrancois)
 
 
 # To-Do
