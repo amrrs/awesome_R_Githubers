@@ -49,6 +49,7 @@ In no particular order:
 * [Colin Gillespie](https://github.com/csgillespie)
 * [Steph Locke](https://github.com/stephlocke)
 * [Chan-Yub Park](https://github.com/mrchypark)
+* [Nicholas Tierney](https://github.com/njtierney)
 
 
 # To-Do
