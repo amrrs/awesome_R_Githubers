@@ -42,6 +42,7 @@ In no particular order:
 * [Priyanga Dilini Talagala](https://github.com/pridiltal)
 * [Max Woolf](https://github.com/minimaxir)
 * [Romain François](https://github.com/romainfrancois)
+* [Mark Edmondson](https://github.com/MarkEdmondson1234)
 
 
 # To-Do
