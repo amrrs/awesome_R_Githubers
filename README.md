@@ -48,6 +48,7 @@ In no particular order:
 * [Shaurita Hutchins](https://github.com/sdhutchins)
 * [Colin Gillespie](https://github.com/csgillespie)
 * [Steph Locke](https://github.com/stephlocke)
+* [Chan-Yub Park](https://github.com/mrchypark)
 
 
 # To-Do
