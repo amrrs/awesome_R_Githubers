@@ -54,6 +54,8 @@ In no particular order:
 * [Gabriela de Queiroz](https://github.com/gdequeiroz)
 * [Nathan Eastwood](https://github.com/nathaneastwood)
 * [longhow lam](https://github.com/longhowlam)
+* [Bradley Boehmke](https://github.com/bradleyboehmke)
+* [Brandon Greenwell](https://github.com/bgreenwell)
 
 
 # To-Do
