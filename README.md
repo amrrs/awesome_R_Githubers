@@ -31,7 +31,8 @@ In no particular order:
 
 # To-Do
 
-- [] Group them (either by Organization or their area of focus)
+- [x] Add a basic list of R Githubers
+- [ ] Group them (either by Organization or their area of focus)
 
 # Contribution
 
