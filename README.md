@@ -27,7 +27,7 @@ In no particular order:
 * [Thomas Lin Pedersen](https://github.com/thomasp85)
 * [Max Kuhn](https://github.com/topepo)
 * [Peter Ellis](https://github.com/ellisp)
-
+* [Andrew Heiss](https://github.com/andrewheiss)
 
 # To-Do
 
