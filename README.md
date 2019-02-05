@@ -43,6 +43,7 @@ In no particular order:
 * [Max Woolf](https://github.com/minimaxir)
 * [Romain François](https://github.com/romainfrancois)
 * [Mark Edmondson](https://github.com/MarkEdmondson1234)
+* [Divad Nojnarg](https://github.com/DivadNojnarg)
 
 
 # To-Do
