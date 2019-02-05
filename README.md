@@ -42,4 +42,4 @@ In no particular order:
 To contribute, Please feel free to add the new profile below in the list and submit a PR (along with why they're added). Please make sure the Githuber you're adding is active on Github. Thx! 
 
 
-**If you find this useful, Please star ⭐️ it and spread the word!**
+## If you find this useful, Please star ⭐️ this repo and spread the word!
