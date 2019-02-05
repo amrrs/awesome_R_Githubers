@@ -32,6 +32,7 @@ In no particular order:
 * [Garrett Grolemund](https://github.com/garrettgman)
 * [Maëlle Salmon](https://github.com/maelle)
 * [Charlotte Wickham](https://github.com/cwickham)
+* [Victor Perrier](https://github.com/pvictor)
 
 # To-Do
 
