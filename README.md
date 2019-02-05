@@ -1,6 +1,8 @@
 # awesome_R_Githubers
 This is a list of R developers and advocates on Github. This is to help new comers create a following list.
 
+In no particular order:
+
 
 * [Ben Marwick](https://github.com/benmarwick)
 * [Dean Attali](https://github.com/daattali)
