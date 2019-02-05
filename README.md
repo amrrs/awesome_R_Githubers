@@ -34,6 +34,7 @@ In no particular order:
 # To-Do
 
 - [x] Add a basic list of R Githubers
+- [ ] Add a small bio / description about them
 - [ ] Group them (either by Organization or their area of focus)
 
 # Contribution
