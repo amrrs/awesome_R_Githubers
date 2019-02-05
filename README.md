@@ -50,6 +50,9 @@ In no particular order:
 * [Steph Locke](https://github.com/stephlocke)
 * [Chan-Yub Park](https://github.com/mrchypark)
 * [Nicholas Tierney](https://github.com/njtierney)
+* [mark padgham](https://github.com/mpadge)
+* [Gabriela de Queiroz](https://github.com/gdequeiroz)
+* [Nathan Eastwood](https://github.com/nathaneastwood)
 
 
 # To-Do
