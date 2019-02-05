@@ -30,6 +30,7 @@ In no particular order:
 * [Andrew Heiss](https://github.com/andrewheiss)
 * [Mine Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel)
 * [Garrett Grolemund](https://github.com/garrettgman)
+* [Maëlle Salmon](https://github.com/maelle)
 
 # To-Do
 
