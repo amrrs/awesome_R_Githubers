@@ -58,6 +58,7 @@ In no particular order:
 * [Brandon Greenwell](https://github.com/bgreenwell)
 * [Karthik Ram](https://github.com/karthik)
 * [Dirk Eddelbuettel](https://github.com/eddelbuettel)
+* [Earo Wang](https://github.com/earowang)
 
 # To-Do
 
