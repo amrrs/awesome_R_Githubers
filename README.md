@@ -40,6 +40,7 @@ In no particular order:
 * [Noam Ross](https://github.com/noamross)
 * [Alison Presmanes Hill](https://github.com/apreshill)
 * [Priyanga Dilini Talagala](https://github.com/pridiltal)
+* [Max Woolf](https://github.com/minimaxir)
 
 
 # To-Do
