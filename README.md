@@ -31,6 +31,7 @@ In no particular order:
 * [Mine Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel)
 * [Garrett Grolemund](https://github.com/garrettgman)
 * [Maëlle Salmon](https://github.com/maelle)
+* [Charlotte Wickham](https://github.com/cwickham)
 
 # To-Do
 
