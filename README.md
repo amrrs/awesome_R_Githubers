@@ -3,7 +3,7 @@ This is a list of R developers and advocates on Github. This is to help new come
 
 In no particular order:
 
-
+* [Michael W. Kearney](https://github.com/mkearney)
 * [Ben Marwick](https://github.com/benmarwick)
 * [Dean Attali](https://github.com/daattali)
 * [boB Rudis](https://github.com/hrbrmstr)
@@ -33,6 +33,14 @@ In no particular order:
 * [Maëlle Salmon](https://github.com/maelle)
 * [Charlotte Wickham](https://github.com/cwickham)
 * [Victor Perrier](https://github.com/pvictor)
+* [Amanda Dobbyn](https://github.com/aedobbyn)
+* [Yihui Xie](https://github.com/yihui)
+* [Romain LESUR](https://github.com/RLesur)
+* [Anna Krystalli](https://github.com/annakrystalli)
+* [Noam Ross](https://github.com/noamross)
+* [Alison Presmanes Hill](https://github.com/apreshill)
+* [Priyanga Dilini Talagala](https://github.com/pridiltal)
+
 
 # To-Do
 
