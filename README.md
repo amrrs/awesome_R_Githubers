@@ -53,6 +53,7 @@ In no particular order:
 * [mark padgham](https://github.com/mpadge)
 * [Gabriela de Queiroz](https://github.com/gdequeiroz)
 * [Nathan Eastwood](https://github.com/nathaneastwood)
+* [longhow lam](https://github.com/longhowlam)
 
 
 # To-Do
