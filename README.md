@@ -47,6 +47,7 @@ In no particular order:
 * [Rob Gilmore](https://github.com/grabear)
 * [Shaurita Hutchins](https://github.com/sdhutchins)
 * [Colin Gillespie](https://github.com/csgillespie)
+* [Steph Locke](https://github.com/stephlocke)
 
 
 # To-Do
