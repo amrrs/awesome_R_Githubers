@@ -46,6 +46,7 @@ In no particular order:
 * [Divad Nojnarg](https://github.com/DivadNojnarg)
 * [Rob Gilmore](https://github.com/grabear)
 * [Shaurita Hutchins](https://github.com/sdhutchins)
+* [Colin Gillespie](https://github.com/csgillespie)
 
 
 # To-Do
