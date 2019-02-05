@@ -29,6 +29,7 @@ In no particular order:
 * [Peter Ellis](https://github.com/ellisp)
 * [Andrew Heiss](https://github.com/andrewheiss)
 * [Mine Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel)
+* [Garrett Grolemund](https://github.com/garrettgman)
 
 # To-Do
 
