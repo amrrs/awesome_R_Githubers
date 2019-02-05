@@ -28,6 +28,7 @@ In no particular order:
 * [Max Kuhn](https://github.com/topepo)
 * [Peter Ellis](https://github.com/ellisp)
 * [Andrew Heiss](https://github.com/andrewheiss)
+* [Mine Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel)
 
 # To-Do
 
