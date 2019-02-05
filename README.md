@@ -56,7 +56,8 @@ In no particular order:
 * [longhow lam](https://github.com/longhowlam)
 * [Bradley Boehmke](https://github.com/bradleyboehmke)
 * [Brandon Greenwell](https://github.com/bgreenwell)
-
+* [Karthik Ram](https://github.com/karthik)
+* [Dirk Eddelbuettel](https://github.com/eddelbuettel)
 
 # To-Do
 
