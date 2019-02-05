@@ -44,6 +44,8 @@ In no particular order:
 * [Romain François](https://github.com/romainfrancois)
 * [Mark Edmondson](https://github.com/MarkEdmondson1234)
 * [Divad Nojnarg](https://github.com/DivadNojnarg)
+* [Rob Gilmore](https://github.com/grabear)
+* [Shaurita Hutchins](https://github.com/sdhutchins)
 
 
 # To-Do
