@@ -59,6 +59,7 @@ In no particular order:
 * [Karthik Ram](https://github.com/karthik)
 * [Dirk Eddelbuettel](https://github.com/eddelbuettel)
 * [Earo Wang](https://github.com/earowang)
+* [Tyler Rinker](https://github.com/trinker)
 
 # To-Do
 
