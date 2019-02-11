@@ -60,6 +60,7 @@ In no particular order:
 * [Dirk Eddelbuettel](https://github.com/eddelbuettel)
 * [Earo Wang](https://github.com/earowang)
 * [Tyler Rinker](https://github.com/trinker)
+* [Bruna Wundervald](https://github.com/brunaw)
 
 # To-Do
 
