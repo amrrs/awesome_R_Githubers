@@ -61,6 +61,7 @@ In no particular order:
 * [Earo Wang](https://github.com/earowang)
 * [Tyler Rinker](https://github.com/trinker)
 * [Bruna Wundervald](https://github.com/brunaw)
+* [Garrick Aden-Buie](https://github.com/gadenbuie)
 
 # To-Do
 
