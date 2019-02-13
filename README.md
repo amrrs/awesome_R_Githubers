@@ -62,6 +62,7 @@ In no particular order:
 * [Tyler Rinker](https://github.com/trinker)
 * [Bruna Wundervald](https://github.com/brunaw)
 * [Garrick Aden-Buie](https://github.com/gadenbuie)
+* [Hao Zhu](https://github.com/haozhu233)
 
 # To-Do
 
