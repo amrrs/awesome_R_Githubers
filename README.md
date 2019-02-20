@@ -63,6 +63,8 @@ In no particular order:
 * [Bruna Wundervald](https://github.com/brunaw)
 * [Garrick Aden-Buie](https://github.com/gadenbuie)
 * [Hao Zhu](https://github.com/haozhu233)
+* [Julia Silge](https://github.com/juliasilge)
+* [David Robinson](https://github.com/dgrtwo)
 
 # To-Do
 
