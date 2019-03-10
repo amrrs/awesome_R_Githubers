@@ -65,6 +65,7 @@ In no particular order:
 * [Hao Zhu](https://github.com/haozhu233)
 * [Julia Silge](https://github.com/juliasilge)
 * [David Robinson](https://github.com/dgrtwo)
+* [Indrajeet Patil](https://github.com/IndrajeetPatil)
 
 # To-Do
 
