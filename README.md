@@ -66,6 +66,7 @@ In no particular order:
 * [Julia Silge](https://github.com/juliasilge)
 * [David Robinson](https://github.com/dgrtwo)
 * [Indrajeet Patil](https://github.com/IndrajeetPatil)
+* [John Muschelli](https://github.com/muschellij2)
 
 # To-Do
 
