@@ -67,6 +67,7 @@ In no particular order:
 * [David Robinson](https://github.com/dgrtwo)
 * [Indrajeet Patil](https://github.com/IndrajeetPatil)
 * [John Muschelli](https://github.com/muschellij2)
+* [Guangchuang Yu](https://github.com/GuangchuangYu)
 
 # To-Do
 
