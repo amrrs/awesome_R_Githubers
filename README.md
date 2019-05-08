@@ -68,6 +68,7 @@ In no particular order:
 * [Indrajeet Patil](https://github.com/IndrajeetPatil)
 * [John Muschelli](https://github.com/muschellij2)
 * [Guangchuang Yu](https://github.com/GuangchuangYu)
+* [Jeffrey W Hollister](https://github.com/jhollist)
 
 # To-Do
 
