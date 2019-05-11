@@ -69,6 +69,7 @@ In no particular order:
 * [John Muschelli](https://github.com/muschellij2)
 * [Guangchuang Yu](https://github.com/GuangchuangYu)
 * [Jeffrey W Hollister](https://github.com/jhollist)
+* [Aravind Hebbali](https://github.com/aravindhebbali)
 
 # To-Do
 
