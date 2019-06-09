@@ -70,6 +70,7 @@ In no particular order:
 * [Guangchuang Yu](https://github.com/GuangchuangYu)
 * [Jeffrey W Hollister](https://github.com/jhollist)
 * [Aravind Hebbali](https://github.com/aravindhebbali)
+* [Julien Barnier](https://github.com/juba)
 
 # To-Do
 
