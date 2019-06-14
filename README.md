@@ -71,6 +71,7 @@ In no particular order:
 * [Jeffrey W Hollister](https://github.com/jhollist)
 * [Aravind Hebbali](https://github.com/aravindhebbali)
 * [Julien Barnier](https://github.com/juba)
+* [Ryo Nakagawara](https://github.com/Ryo-N7)
 
 # To-Do
 
