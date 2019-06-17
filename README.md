@@ -72,6 +72,7 @@ In no particular order:
 * [Aravind Hebbali](https://github.com/aravindhebbali)
 * [Julien Barnier](https://github.com/juba)
 * [Ryo Nakagawara](https://github.com/Ryo-N7)
+* [Mark Edmondson](https://github.com/MarkEdmondson1234)
 
 # To-Do
 
