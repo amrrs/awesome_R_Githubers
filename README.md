@@ -73,6 +73,7 @@ In no particular order:
 * [Julien Barnier](https://github.com/juba)
 * [Ryo Nakagawara](https://github.com/Ryo-N7)
 * [Mark Edmondson](https://github.com/MarkEdmondson1234)
+* [Shinya Uryu](https://github.com/uribo)
 
 # To-Do
 
