@@ -74,6 +74,7 @@ In no particular order:
 * [Ryo Nakagawara](https://github.com/Ryo-N7)
 * [Mark Edmondson](https://github.com/MarkEdmondson1234)
 * [Shinya Uryu](https://github.com/uribo)
+* [Kent Russell - timelyportfolio](https://github.com/timelyportfolio)
 
 # To-Do
 
